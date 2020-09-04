@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-04T21:15:21.208Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="PXe4MLi6R2tR2XC2r0oD" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-04T21:20:17.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="NVMO6eDqdsQezwe0Enxw" version="13.6.6" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="415" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="491" dy="1356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,10 +111,16 @@
           </mxGeometry>
         </mxCell>
         <object label="Query" id="ldl7UTo84l_oOs6AeaoS-1">
-          <mxCell style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxCell style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
             <mxGeometry x="270" y="640" width="170" height="45" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="t5DSYF_FgyzFKGMEDUMn-1" value="Selec id, nome, &lt;br&gt;qtd from table" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="350" y="640" width="150" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="t5DSYF_FgyzFKGMEDUMn-5" value="Salvar" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="850" y="740" width="150" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
