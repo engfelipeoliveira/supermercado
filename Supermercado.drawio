@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-05T12:32:58.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="O-tTOmgNWZH7PFNjyaEU" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-05T12:46:33.664Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="SV3hq3rCbhszEDAatSmv" version="13.6.6" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="771" dy="2131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="338" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,6 +120,59 @@
         </mxCell>
         <mxCell id="t5DSYF_FgyzFKGMEDUMn-5" value="Salvar" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="850" y="740" width="150" height="50" as="geometry" />
+        </mxCell>
+        <object label="Delimitador" id="t5DSYF_FgyzFKGMEDUMn-6">
+          <mxCell style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+            <mxGeometry x="620" y="270" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="t5DSYF_FgyzFKGMEDUMn-7" value="|" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="710" y="270" width="150" height="40" as="geometry" />
+        </mxCell>
+        <object label="Cabeçalho na 1a linha?" id="t5DSYF_FgyzFKGMEDUMn-8">
+          <mxCell style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;fillColor=#eeeeee;strokeColor=#999999;gradientColor=#cccccc;align=left;spacingLeft=4;fontSize=17;fontColor=#666666;labelPosition=right;" vertex="1" parent="1">
+            <mxGeometry x="440" y="400" width="15" height="15" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Servidor" id="t5DSYF_FgyzFKGMEDUMn-9">
+          <mxCell style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+            <mxGeometry x="550" y="600" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Porta" id="t5DSYF_FgyzFKGMEDUMn-10">
+          <mxCell style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+            <mxGeometry x="550" y="642.5" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="t5DSYF_FgyzFKGMEDUMn-11" value="192.168.0.1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="620" y="590" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t5DSYF_FgyzFKGMEDUMn-12" value="1521" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="620" y="645" width="150" height="40" as="geometry" />
+        </mxCell>
+        <object label="Usuário&amp;nbsp;" id="t5DSYF_FgyzFKGMEDUMn-13">
+          <mxCell style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+            <mxGeometry x="550" y="700" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Senha" id="t5DSYF_FgyzFKGMEDUMn-14">
+          <mxCell style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+            <mxGeometry x="550" y="745" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="t5DSYF_FgyzFKGMEDUMn-15" value="admin" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="620" y="700" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="t5DSYF_FgyzFKGMEDUMn-16" value="********" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="620" y="750" width="150" height="40" as="geometry" />
+        </mxCell>
+        <object label="Guia" id="t5DSYF_FgyzFKGMEDUMn-17">
+          <mxCell style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+            <mxGeometry x="620" y="330" width="170" height="40" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="t5DSYF_FgyzFKGMEDUMn-18" value="aba_xls_produto" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#999999;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;" vertex="1" parent="1">
+          <mxGeometry x="710" y="321" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
